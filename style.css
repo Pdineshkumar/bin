@@ -1,0 +1,41 @@
+html{
+    background-image: url("css.jpg");
+ font-family: Arial Black;
+}
+h1 {
+   color:blue;
+   margin-bottom: 5em;
+}
+body{
+    font-family: Arial Black;
+    color:blue;
+	}
+input{
+     color:red;
+   background-color:yellow;
+}
+button{
+	position: absolute;
+    right: 3px;
+	width: 65px;
+	border: 4px solid #73AD21;
+	color:red;
+	 padding: 5px;
+	background-color:yellow;
+}
+h3{
+	color:red;
+	font-size: 105%;
+}
+.rr{
+	position: absolute;
+    right: 3px;
+	color:red;
+}
+h5{
+	color:orange;
+	font-size: 105%;
+}
+h6{
+	font-size: 105%;
+}
